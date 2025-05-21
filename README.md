@@ -18,7 +18,7 @@ I love creating engaging web experiences and constantly learning new technologie
 
 - 🌱 Currently exploring **Django**, **Web Development**, and **Python programming**
 - 💡 Passionate about **Creative Coding** and **Full-Stack Development**
-- ✨ Always excited to learn new tools and build impactful projects
+- 📁 All my projects are available on my <a href="https://github.com/Yong-Cheng-Huang?tab=repositories" target="_blank">GitHub repository page</a></li>
 - 📬 Reach me at: **s111113224@stu.ntue.edu.tw**
 
 <br />
