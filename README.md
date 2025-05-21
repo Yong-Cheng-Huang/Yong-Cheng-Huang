@@ -12,7 +12,7 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="animation" width="250"/></p>
 
-### 🌟 About Me
+<h2> About Me </h2>
 
 - 🌱 I’m currently exploring **Django**, **Web Development**, and **Python programming**
 - 💡 Passionate about **Creative Coding**, and **Full-Stack Development**
@@ -21,7 +21,7 @@
 
 <br />
 
-### 🤝 Connect with Me
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/yongcheng-ntue/" target="blank">
@@ -37,35 +37,49 @@
 
 <br />
 
-### 🛠️ Languages and Tools
+<h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"> </h2>
 
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> 
-  </a> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40" />
+<p align="left">
+  <!-- Python -->
+  <a href="https://github.com/Yong-Cheng-Huang?tab=repositories&q=&type=&language=python&sort=">
+    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" alt="python">
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40" /> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40" /> 
+
+  <!-- Django -->
+  <a href="https://github.com/Yong-Cheng-Huang?tab=repositories&q=django&type=&sort=">
+    <img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django">
   </a>
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> 
+
+  <!-- HTML -->
+  <a href="https://github.com/Yong-Cheng-Huang?tab=repositories&q=&type=&language=html&sort=">
+    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" alt="html">
   </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40" /> 
+
+  <!-- CSS -->
+  <a href="https://github.com/Yong-Cheng-Huang?tab=repositories&q=&type=&language=css&sort=">
+    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" alt="css">
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> 
+
+  <!-- JavaScript -->
+  <a href="https://github.com/Yong-Cheng-Huang?tab=repositories&q=&type=&language=javascript&sort=">
+    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg" alt="javascript">
   </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" />
+
+  <!-- Bootstrap -->
+  <a href="https://github.com/Yong-Cheng-Huang?tab=repositories&q=bootstrap&type=&sort=">
+    <img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap">
+  </a>
+
+  <!-- Git -->
+  <a href="https://github.com/Yong-Cheng-Huang?tab=repositories&q=&type=&language=git&sort=">
+    <img width="32px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git">
+  </a>
+
+  <!-- VS Code -->
+  <a href="https://code.visualstudio.com/">
+    <img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode">
   </a>
 </p>
-
 <br />
 
 ### 📈 GitHub Stats
