@@ -15,7 +15,7 @@
 ### 🌟 About Me
 
 - 🌱 I’m currently exploring **Django**, **Web Development**, and **Python programming**
-- 💡 Passionate about **Creative Coding**, **Tech Education**, and **Full-Stack Development**
+- 💡 Passionate about **Creative Coding**, and **Full-Stack Development**
 - ✨ I'm always excited to learn new tools and build impactful projects
 - 📬 Reach me at: **s111113224@stu.ntue.edu.tw**
 
