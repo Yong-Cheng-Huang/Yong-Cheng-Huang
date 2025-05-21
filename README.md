@@ -12,7 +12,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="yongcheng-huang" /></p>
 
 - 🌱 I’m currently learning Django, Web Development, and Python programming  
-- 💡 Interested in Educational Tech, Creative Coding & Full-Stack Development  
+- 💡 Interested in Tech, Creative Coding & Full-Stack Development  
 - 📫 How to reach me: **s111113224@stu.ntue.edu.tw**  
 
 <br>
