@@ -10,7 +10,7 @@
 
 <br />
 
-<h2>💡 About Me</h2>
+<h2> About Me </h2>
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="animation" width="250"/></p>
 
 I'm a curious and passionate developer currently diving into Django and full-stack web development.  
@@ -23,7 +23,7 @@ I love creating engaging web experiences and constantly learning new technologie
 
 <br />
 
-<h2>🛠️ Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"></h2>
+<h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"></h2>
 
 <p align="left">
   <a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" alt="python"></a>
@@ -38,7 +38,7 @@ I love creating engaging web experiences and constantly learning new technologie
 
 <br />
 
-<h2>🚀 Projects</h2>
+<h2> Projects </h2>
 <ul>
   <li>
     <a href="https://github.com/konentung/OnlineProgrammingPlatform">🎮 Online Programming Platform</a><br />
@@ -54,7 +54,7 @@ I love creating engaging web experiences and constantly learning new technologie
 
 <br />
 
-<h2>🤝 Connect with Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
+<h2> Connect with Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/yongcheng-ntue/" target="blank">
@@ -70,7 +70,7 @@ I love creating engaging web experiences and constantly learning new technologie
 
 <br />
 
-<h2>📈 GitHub Stats</h2>
+<h2> GitHub Stats </h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yong-Cheng-Huang&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top-langs" />
