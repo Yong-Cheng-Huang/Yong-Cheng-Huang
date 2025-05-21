@@ -47,7 +47,7 @@ I love creating engaging web experiences and constantly learning new technologie
   </li>
   <br />
   <li>
-    <a href="https://github.com/Yong-Cheng-Huang/Pygame-Tetris">🧩 Tetris Game</a><br />
+    <a href="https://github.com/Yong-Cheng-Huang/Tetris">🧩 Tetris Game</a><br />
     A classic Tetris game built from scratch using Pygame.
   </li>
 </ul>
