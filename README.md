@@ -41,15 +41,21 @@ I love creating engaging web experiences and constantly learning new technologie
 <h2> Projects </h2>
 <ul>
   <li>
-    <a href="https://github.com/konentung/OnlineProgrammingPlatform">🎮 Online Programming Platform</a><br />
+    ☕ <a href="https://github.com/Yong-Cheng-Huang/Sip-Savour-Co">Sip & Savour Co</a><br />
+    A simulated e-commerce website for a café brand, developed using the Django framework as part of a web design course final project.  
+    The site features a full-stack experience, including product browsing, shopping cart, user registration, and a loyalty point system.
+  </li>
+  <br />
+  <li>
+    🎮 <a href="https://github.com/konentung/OnlineProgrammingPlatform">Online Programming Platform</a><br />
     Designed and developed a web-based programming education platform with RPG elements and gamified learning strategies.  
     Contributed by creating interactive map scenes and implementing basic character operations.
   </li>
   <br />
   <li>
-    <a href="https://github.com/Yong-Cheng-Huang/Tetris">🧩 Tetris Game</a><br />
+    🧩 <a href="https://github.com/Yong-Cheng-Huang/Tetris">Tetris Game</a><br />
     A classic Tetris game built from scratch using Pygame.
-  </li>
+  </li>  
 </ul>
 
 <br />
