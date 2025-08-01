@@ -41,6 +41,18 @@ I love creating engaging web experiences and constantly learning new technologie
 <h2> Projects </h2>
 <ul>
   <li>
+    ◻️ <a href="https://github.com/Yong-Cheng-Huang/Cube-Solver">Cube Solver</a>
+    <br />
+    A Rubik’s Cube scanning and solving system using OpenCV and the Kociemba algorithm.
+  </li>
+  <br />
+  <li>
+    💬 <a href="https://github.com/Yong-Cheng-Huang/YouTube-Comment-Analyzer">Youtube Comment Analyzer</a>
+    <br />
+    YouTube Comment Analyzer is a Chrome extension specifically designed for content creators and market analysts.
+  </li>
+  <br />
+  <li>
     ☕ <a href="https://github.com/Yong-Cheng-Huang/Sip-Savour-Co">Sip & Savour Co</a><br />
     A simulated e-commerce website for a café brand, developed using the Django framework as part of a web design course final project.  
     The site features a full-stack experience, including product browsing, shopping cart, user registration, and a loyalty point system.
@@ -53,9 +65,11 @@ I love creating engaging web experiences and constantly learning new technologie
   </li>
   <br />
   <li>
-    🧩 <a href="https://github.com/Yong-Cheng-Huang/Tetris">Tetris Game</a><br />
-    A classic Tetris game built from scratch using Pygame.
-  </li>  
+    🗡️ <a href="https://github.com/Yong-Cheng-Huang/ZELDA-RPG">Zelda RPG</a>
+    <br />
+    A 2D Action-Adventure RPG with Custom Level and Combat Design.
+    This project is inspired by <a href="https://youtu.be/QU1pPzEGrqw?si=0PAARwNKCt_mRZ-W">Clear Code</a>.
+  </li>
 </ul>
 
 <br />
