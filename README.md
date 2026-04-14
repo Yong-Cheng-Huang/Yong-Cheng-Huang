@@ -88,10 +88,10 @@ I love creating engaging web experiences and constantly learning new technologie
   </a>
 </p>
 
-<br />
+<!-- <br />
 
 <h2> GitHub Stats </h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yong-Cheng-Huang&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top-langs" />
-</p>
+</p> -->
