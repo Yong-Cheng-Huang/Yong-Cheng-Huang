@@ -74,32 +74,24 @@ I love creating engaging web experiences and constantly learning new technologie
 
 <br />
 
-<h2>
+<h2 align="left">
   Connect with Me
-  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px">
+  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="60"/>
 </h2>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/yongcheng-ntue/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-         height="30" width="40"
-         style="display:inline-block; margin-right:10px;" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="32"/>
   </a>
-
   <a href="https://www.facebook.com/huang.yong.cheng.525876" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-         height="30" width="40"
-         style="display:inline-block; margin-right:10px;" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="32"/>
   </a>
-
   <a href="https://www.instagram.com/frank06_21/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-         height="30" width="40"
-         style="display:inline-block;" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="32"/>
   </a>
 </p>
 
-<!-- <br />
+<br />
 
 <h2> GitHub Stats </h2>
 
